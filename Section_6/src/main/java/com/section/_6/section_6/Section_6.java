@@ -73,7 +73,7 @@ public final class Section_6 extends JavaPlugin{
         //MTA5MTIzMDU5OTg0ODY2OTE5NQ.G_X6fV.dz02OlXK6bwFBA8VhgN_OZxcsckGSiBvitNrIo
         getCommand("giverole").setExecutor(new GiveRoleCommand(this));
         try {
-            JDABuilder builder = JDABuilder.createDefault("MTA5MTIzMDU5OTg0ODY2OTE5NQ.G7nISv.Z01lM8dwOYnt5lst9n2VWLss1U9BTQDUJJcCCs");
+            JDABuilder builder = JDABuilder.createDefault("MYTOKEN");
             builder.setActivity(Activity.watching("YOur serevr"));
             builder.addEventListeners(new DiscordListener());
             jda = builder
