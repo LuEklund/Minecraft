@@ -1,0 +1,8 @@
+name: bedwars
+version: '${project.version}'
+main: com.section8.bedwars.Bedwars
+api-version: 1.19
+authors: [Lucas]
+description: bedwars
+commands:
+  arena:

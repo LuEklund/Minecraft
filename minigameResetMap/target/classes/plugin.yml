@@ -1,0 +1,8 @@
+name: MinigameResetMap
+version: '1'
+main: com.section8.minigame.MinigameResetMap
+api-version: 1.19
+authors: [Lucas]
+description: Minigame Skeleton
+commands:
+  arena:

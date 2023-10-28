@@ -1,0 +1,6 @@
+name: Command_Manager
+version: '${project.version}'
+main: com.section._6.command_manager.Command_Manager
+api-version: 1.19
+authors: [Lucas]
+description: Manager commander

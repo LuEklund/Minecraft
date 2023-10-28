@@ -1,0 +1,15 @@
+name: Section_6
+version: '1'
+main: com.section._6.section_6.Section_6
+api-version: 1.19
+authors: [Lucas]
+description: learning
+commands:
+  playsong:
+  broadcast:
+  anvil:
+  fi:
+  talk:
+  menu:
+  giverole:
+depend: [WorldEdit, NoteBlockAPI]

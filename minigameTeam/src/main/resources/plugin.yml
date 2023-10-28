@@ -1,0 +1,8 @@
+name: minigameTeam
+version: '${project.version}'
+main: com.section8.minigame.minigameTeam
+api-version: 1.19
+authors: [Lucas]
+description: Minigame Skeleton
+commands:
+  arena:

@@ -1,0 +1,8 @@
+Word: 'Hello World'
+#this is test comment
+number: 42
+enableTrue: true
+String-list:
+  - 'wow'
+  - 'val1'
+  - 'val2'

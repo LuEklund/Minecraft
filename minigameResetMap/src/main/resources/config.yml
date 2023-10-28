@@ -1,0 +1,24 @@
+required-players: 2
+countdown-seconds: 10
+lobby-spawn:
+  world: 'world'
+  x: 4.5
+  y: 92.5
+  z: 2.5
+  yaw: 180
+  pitch: 0
+arenas:
+  0:
+    world: 'Snow'
+    x: 0.5
+    y: -53.5
+    z: 0.5
+    yaw: 0
+    pitch: 0
+  1:
+    world: 'Desert'
+    x: 0.5
+    y: -53.5
+    z: 0.5
+    yaw: 0
+    pitch: 0

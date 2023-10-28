@@ -1,0 +1,8 @@
+name: minigameKit
+version: '${project.version}'
+main: com.section8.minigame.minigameKit
+api-version: 1.19
+authors: [Lucas]
+description: Minigame Skeleton for kits
+commands:
+  arena:

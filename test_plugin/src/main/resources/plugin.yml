@@ -1,0 +1,16 @@
+name: test_plugin
+version: '${project.version}'
+main: com.lucas.test.Test_plugin
+api-version: 1.19
+authors: [Lucas]
+description: test plugins desc
+commands:
+  he:
+    description: wow
+  config:
+    description: yes
+  test:
+    description: mmmhm
+  menu:
+  cool:
+  perms:

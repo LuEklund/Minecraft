@@ -1,0 +1,6 @@
+name: Database
+version: '1'
+main: com.section._6.database.Database
+api-version: 1.19
+authors: [Lucas]
+description: MYSQL Database test

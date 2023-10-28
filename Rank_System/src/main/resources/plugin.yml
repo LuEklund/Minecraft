@@ -1,0 +1,8 @@
+name: Rank_System
+version: '${project.version}'
+main: com.rank.test.rank_system.Rank_System
+api-version: 1.19
+authors: [Lucas]
+description: Rank system test
+commands:
+  rank:
